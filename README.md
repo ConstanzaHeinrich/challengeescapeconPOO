@@ -1,1 +1,1 @@
-Esto es la refactorización del challenge de escape final, en este código ordené en tres clases y una función para el main. Esto me sirvió para pensar a futuro en la escalabilidad del código, de esta forma me permite poder agregarle más cosas (nuevas clases) en el futuro.
+Este código es la refactorización del challenge de escape final, lo que hice fue en tres clases y una función para el main. Esto me sirvió para pensar a futuro, en la escalabilidad del código, de esta forma me permite poder agregarle más cosas (nuevas clases) más adelante si así deseo.
